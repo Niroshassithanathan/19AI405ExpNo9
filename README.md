@@ -2,7 +2,7 @@
 ## Name: NIROSHA S
 ## Register Number:212222230097
 ## Aim:
-    To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
+To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 ## Problem Description
 ### Wumpus World
 The Wumpus world is a simple world example to illustrate the worth of a knowledge-based agent and to represent knowledge representation.
